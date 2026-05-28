@@ -107,6 +107,12 @@ MIT
 
 ---
 
+### Disclaimer
+
+This project (XVD) is provided for personal learning, research, and technical exchange only. Do not use this extension for any commercial purposes or illegal distribution. Users shall bear all risks associated with violating X (Twitter)'s Terms of Service when downloading media content. The author assumes no legal responsibility for users' actions or consequences.
+
+---
+
 <h2 id="chinese">🇨🇳 中文</h2>
 
 一款专门针对 X（原 Twitter）深度定制的高清视频逆向提取与下载浏览器扩展插件，纯客户端运行，**不依赖任何第三方解析接口**。
@@ -202,6 +208,12 @@ x-video-downloader/
 ### 许可
 
 MIT
+
+---
+
+### 免责声明
+
+本项目（XVD）仅供个人学习、研究与技术交流使用。请勿将本插件用于任何商业用途或非法传播。用户使用本插件下载媒体内容时，须自行承担因违反 X (Twitter) 服务条款而产生的相关风险。作者不对用户的使用行为及后果承担任何法律责任。
 
 ---
 
@@ -303,6 +315,12 @@ MIT
 
 ---
 
+### 免責事項
+
+本プロジェクト（XVD）は、個人学習、研究、技術交流のみを目的として提供されています。本拡張機能を商業目的や違法な配布に使用しないでください。ユーザーが本拡張機能を使用してメディアコンテンツをダウンロードする際は、X（Twitter）の利用規約に違反することによって生じるすべてのリスクを自ら負担するものとします。作者はユーザーの使用行為およびその結果に対して一切の法的責任を負いません。
+
+---
+
 <h2 id="spanish">🇪🇸 Español</h2>
 
 Una extensión de navegador diseñada específicamente para la **extracción inversa y descarga de video HD** en X (antes Twitter). Opera completamente del lado del cliente **sin depender de API de terceros**.
@@ -398,3 +416,9 @@ x-video-downloader/
 ### Licencia
 
 MIT
+
+---
+
+### Descargo de Responsabilidad
+
+Este proyecto (XVD) se proporciona únicamente para aprendizaje personal, investigación e intercambio técnico. No utilice esta extensión para fines comerciales o distribución ilegal. Los usuarios asumen todos los riesgos asociados con la violación de los Términos de Servicio de X (Twitter) al descargar contenido multimedia. El autor no asume ninguna responsabilidad legal por las acciones o consecuencias del usuario.
